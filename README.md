@@ -32,8 +32,8 @@ Python 3.8 tai uudempi
 Kirjastot: numpy, scipy, matplotlib
 
 Asennus
-Kloonaa repositorio ja asenna riippuvuudet:
 
+Kloonaa repositorio ja asenna riippuvuudet:
 pip install numpy scipy matplotlib
 git clone https://github.com/Tekton-MAS/Lotka-Volterra.git
 cd Lotka-Volterra
